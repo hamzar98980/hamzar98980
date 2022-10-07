@@ -9,7 +9,7 @@
 </h3>
 <p>A passionate Application Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Laravel / Php / Flutter / MySql / Wordpress and some other cool libraries and frameworks. 😊</p>
 <div>
- <img src="https://github.com/shahzebnaqvi/shahzebnaqvi/blob/master/coding.gif" width="60%"  loop=infinite></div>
+ <img src="https://github.com/hamzar98980/hamzar98980/blob/master/coding.gif" width="60%"  loop=infinite></div>
 
 
 ### Contact
@@ -32,7 +32,7 @@ Reach out to me directly through:
 Here's my tech stack I'm currently used to and prefer:
 
 <div>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
@@ -41,7 +41,7 @@ Here's my tech stack I'm currently used to and prefer:
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/laravel-E34F26?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/postman-E34F26?style=for-the-badge&logo=postman&logoColor=white" />
+
 <div>
  
 ### Stats
@@ -58,7 +58,7 @@ Here's my tech stack I'm currently used to and prefer:
 </tr>
 </table>
 
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=shahzebnaqvi&theme=nord&hide=stars" /> 
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hamzar98980&theme=nord&hide=stars" /> 
 
 
 ### Featured
