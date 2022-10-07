@@ -53,7 +53,7 @@ Here's my tech stack I'm currently used to and prefer:
         <a href="https://stackoverflow.com/users/17131562/shahzeb-naqvi"><img src="https://github-readme-stackoverflow.vercel.app/?userID=17131562&theme=dark" /></a>
         </td> 
         <td>
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahzebnaqvi&layout=compact&theme=nord" /> 
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzar98980&layout=compact&theme=nord" /> 
         </td>  
 </tr>
 </table>
@@ -68,7 +68,7 @@ Check out some projects below 👇
 https://user-images.githubusercontent.com/50788207/149652478-ea4d695f-746f-4b0e-993b-6def00faf059.mp4
 
 
-<a href="https://github.com/shahzebnaqvi"><img alt="Shahzeb Naqvi Graph" src="https://activity-graph.herokuapp.com/graph?username=shahzebnaqvi&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/shahzebnaqvi"><img alt="Shahzeb Naqvi Graph" src="https://activity-graph.herokuapp.com/graph?username=hamzar98980&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <!--
 **shahzebnaqvi/shahzebnaqvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
