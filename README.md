@@ -1,11 +1,11 @@
 
 
 <h2> Hi There
-    <img src="https://github.com/shahzebnaqvi/shahzebnaqvi/blob/master/wave.gif" 
+    <img src="https://github.com/hamzar98980/hamzar98980/blob/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
          width="45" />
-  </h2><h3> I'm Shahzeb Naqvi!
+  </h2><h3> I'm Hamza Rashid
 </h3>
 <p>A passionate Application Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Laravel / Php / Flutter / MySql / Wordpress and some other cool libraries and frameworks. 😊</p>
 <div>
@@ -16,7 +16,7 @@
 
 Reach out to me directly through:
 
-<a href="mailto:shahzeb.naqvi12@gmail.com" target="_blank">
+<a href="mailto:hamzar98980@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/shahzebnaqvi/" target="_blank">
