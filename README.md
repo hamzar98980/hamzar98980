@@ -19,12 +19,12 @@ Reach out to me directly through:
 <a href="mailto:hamzar98980@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/shahzebnaqvi/" target="_blank">
+<a href="https://www.linkedin.com/in/hamza-rashid-0035891a2" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://twitter.com/Shahzeb91571847" target="_blank">
+<!---<a href="https://twitter.com/Shahzeb91571847" target="_blank">
     <img src="https://img.shields.io/badge/twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
+</a> --->
 
 
 ### Tech Stack
@@ -50,11 +50,11 @@ Here's my tech stack I'm currently used to and prefer:
  <table >
      <tr border="0">
         <td>
-        <a href="https://stackoverflow.com/users/17131562/shahzeb-naqvi"><img src="https://github-readme-stackoverflow.vercel.app/?userID=17131562&theme=dark" /></a>
+        <a href="https://stackoverflow.com/users/19966717/hamza-r123"><img src="https://github-readme-stackoverflow.vercel.app/?userID=19966717&theme=dark" /></a>
         </td> 
-        <td>
+       <!--- <td>
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzar98980&layout=compact&theme=nord" /> 
-        </td>  
+        </td> -->  
 </tr>
 </table>
 
