@@ -60,6 +60,14 @@ Here's my tech stack I'm currently used to and prefer:
 
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=hamzar98980&theme=nord&hide=stars" /> 
 
+### Status
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=hamzar98980&theme=dark&count_private=true&show_icons=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzar98980&layout=compact&theme=dark&langs_count=50" />
+
+
+
+
 
 ### Featured
  
