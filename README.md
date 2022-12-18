@@ -44,19 +44,7 @@ Here's my tech stack I'm currently used to and prefer:
 
 <div>
  
-### Stats
- 
-    
- <table >
-     <tr border="0">
-        <td>
-        <a href="https://stackoverflow.com/users/19966717/hamza-r123"><img src="https://github-readme-stackoverflow.vercel.app/?userID=19966717&theme=dark" /></a>
-        </td> 
-       <!--- <td>
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzar98980&layout=compact&theme=nord" /> 
-        </td> -->  
-</tr>
-</table>
+
 
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=hamzar98980&theme=nord&hide=stars" /> 
 
