@@ -74,8 +74,8 @@ Check out some projects below 👇
 
 <!-- https://user-images.githubusercontent.com/50788207/149652478-ea4d695f-746f-4b0e-993b-6def00faf059.mp4 -->
 
+[![Hamza Rashid github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=hamzar98980&theme=dracula)](https://github.com/hamzar98980)
 
-<a href="https://github.com/hamzar98980"><img alt="hamzar Rashid Graph" src="https://activity-graph.herokuapp.com/graph?username=hamzar98980&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <!--
 **hamzar98980/hamzar98980** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
